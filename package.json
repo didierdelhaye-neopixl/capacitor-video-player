@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jepiqueau/capacitor-video-player.git"
+    "url": "git+https://github.com/didierdelhaye-neopixl/capacitor-video-player"
   },
   "bugs": {
-    "url": "https://github.com/jepiqueau/capacitor-video-player/issues"
+    "url": "https://github.com/didierdelhaye-neopixl/capacitor-video-player/issues"
   },
   "keywords": [
     "capacitor",
