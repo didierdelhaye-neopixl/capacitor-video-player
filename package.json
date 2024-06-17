@@ -1,6 +1,6 @@
 {
   "name": "capacitor-video-player",
-  "version": "5.5.1",
+  "version": "6.0.0",
   "description": "custom Native Capacitor plugin to play a video",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -68,8 +68,8 @@
     "typescript": "~5.4.5"
   },
   "peerDependencies": {
-    "@capacitor/core": "^5.0.0",
-    "hls.js": "^1.4.0"
+    "@capacitor/core": "^6.1.0",
+    "hls.js": "^1.5.11"
   },
   "prettier": "@ionic/prettier-config",
   "swiftlint": "@ionic/swiftlint-config",
