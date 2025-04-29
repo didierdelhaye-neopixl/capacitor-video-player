@@ -69,8 +69,8 @@
     "typescript": "~5.8.3"
   },
   "peerDependencies": {
-    "@capacitor/core": "^6.1.0",
-    "hls.js": "^1.5.11"
+    "@capacitor/core": "^7.2.0",
+    "hls.js": "^1.6.2"
   },
   "prettier": "@ionic/prettier-config",
   "swiftlint": "@ionic/swiftlint-config",
